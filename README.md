@@ -6,6 +6,7 @@ Agri-Vyakaroti is a 3-tier hybrid AI and community-driven ecosystem for early de
 ## 🚀 Live Links
 - **Live Prototype:** https://agrivyakaroti-frontend-new.vercel.app/
 - **Frontend Repository:** https://github.com/AbhiYadav01s/Agrishield-Frontend-NEW
+- **Frontend Repository:** https://github.com/AbhiYadav01s/Agrishield-Backend
 - **Demonstration Video:** https://youtu.be/elOccKth8zE
 
 ## 🧠 Core Architecture
